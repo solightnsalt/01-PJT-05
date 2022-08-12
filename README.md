@@ -5,8 +5,11 @@
 * 기본 자료구조와 알고리즘을 활용해서 제시한 문제를 해결합니다.
 
 ## 필수 사항
+* SWEA [Solving Club](https://swexpertacademy.com/main/talk/solvingClub/clubView.do?solveclubId=AYJCO4t6cCMDFASv)에 가입 신청을 하고, 디스코드에 가입 신청했다고 메세지를 남겨주세요.
 
-* SWEA Solving Club `3주차` Problem Box에 저장된 문제를 풀이합니다.
+* SWEA [Solving Club](https://swexpertacademy.com/main/talk/solvingClub/clubView.do?solveclubId=AYJCO4t6cCMDFASv) `3주차` Problem Box에 저장된 문제를 풀이합니다.
+
+* [Notion](https://www.notion.so/hphk-edu/f0ba72d5582f49e6b8d2abf130e554e3)에 작선된 본인의 SWEA 아이디와 일치하는지 확인하고, 일치하지 않으면 수정해주세요.
 
 * 현재 저장소를 `Fork` 하고, 아래 사항을 완료후 `Pull Request`를 생성합니다.
 
@@ -17,3 +20,4 @@
   * 풀이가 완료되지 않은 코드도 각 문제 파일에 코드를 작성합니다.
 
   * 모의고사 후기를 `본인_회차/본인_이름/README.md` 에 반드시 적습니다.
+  
